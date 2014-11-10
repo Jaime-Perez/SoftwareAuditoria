@@ -1,0 +1,106 @@
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.exe.config
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.exe
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.pdb
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Login.resources
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Properties.Resources.resources
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.csproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.exe
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.pdb
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\ODBCConnect.dll
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.MDI.resources
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Navegador.dll
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.actividades.resources
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.auditoria.resources
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.empresas.resources
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.encargados.resources
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.herramientas.resources
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.normas.resources
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.objetivos.resources
+C:\Users\Mario\Desktop\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.responsables.resources
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.exe.config
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.exe
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.pdb
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.exe
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.pdb
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.actividades.resources
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.auditoria.resources
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.empresas.resources
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.encargados.resources
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.herramientas.resources
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Login.resources
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.MDI.resources
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.normas.resources
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.objetivos.resources
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Properties.Resources.resources
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.responsables.resources
+C:\Users\mario\Desktop\Proyectos cierre\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.csproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.exe.config
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.exe
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.pdb
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.exe
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.pdb
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.actividades.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.auditoria.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.empresas.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.encargados.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Login.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.MDI.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.normas.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.objetivos.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Properties.Resources.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.responsables.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.csproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.areas.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.herramientas.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.herramientas_asignadas.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Registro.resources
+C:\Users\Mario\Desktop\Proyectos de Cierre\Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Asignar.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.exe.config
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.exe
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.pdb
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.exe
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.pdb
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.csprojResolveAssemblyReference.cache
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.actividades.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Asignar.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.auditoria.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.empresas.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.encargados.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.areas.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.herramientas.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.herramientas_asignadas.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Login.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.MDI.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.normas.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.objetivos.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Properties.Resources.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Registro.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.responsables.resources
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.csproj.GenerateResource.Cache
+C:\Users\Otto\Desktop\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.calificacion.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.exe.config
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.exe
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.pdb
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.exe
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\bin\Debug\Software - Auditoria.pdb
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.csprojResolveAssemblyReference.cache
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.actividades.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Asignar.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.auditoria.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.calificacion.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.empresas.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.encargados.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.areas.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.herramientas.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.herramientas_asignadas.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Login.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.MDI.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.normas.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.objetivos.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Properties.Resources.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.Registro.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software___Auditoria.responsables.resources
+C:\Users\Otto\Desktop\nuevo auditoria\Proyecto Auditoria\Software - Auditoria de Sistemas\Software - Auditoria\Software - Auditoria\obj\Debug\Software - Auditoria.csproj.GenerateResource.Cache

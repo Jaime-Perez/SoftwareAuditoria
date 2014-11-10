@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E287D7A1-B329-4797-91D6-36B82C824703}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Software___Auditoria</RootNamespace>
+    <AssemblyName>Software - Auditoria</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Navegador">
+      <HintPath>..\..\..\Software - Clinica Dental\Herramientas SQL\Navegador.dll</HintPath>
+    </Reference>
+    <Reference Include="ODBCConnect">
+      <HintPath>..\..\..\Integracion 5\Proyecto final\Software Industrial\Software Industrial\DLL\ODBCConnect.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="actividades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="actividades.Designer.cs">
+      <DependentUpon>actividades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asignar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asignar.Designer.cs">
+      <DependentUpon>Asignar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="auditoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="auditoria.Designer.cs">
+      <DependentUpon>auditoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calificacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calificacion.Designer.cs">
+      <DependentUpon>calificacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="empresas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="empresas.Designer.cs">
+      <DependentUpon>empresas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="encargados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="encargados.Designer.cs">
+      <DependentUpon>encargados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="areas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="areas.Designer.cs">
+      <DependentUpon>areas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="herramientas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="herramientas.Designer.cs">
+      <DependentUpon>herramientas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="herramientas_asignadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="herramientas_asignadas.Designer.cs">
+      <DependentUpon>herramientas_asignadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI.Designer.cs">
+      <DependentUpon>MDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="normas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="normas.Designer.cs">
+      <DependentUpon>normas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="objetivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="objetivos.Designer.cs">
+      <DependentUpon>objetivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro.Designer.cs">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="responsables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="responsables.Designer.cs">
+      <DependentUpon>responsables.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="actividades.resx">
+      <DependentUpon>actividades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asignar.resx">
+      <DependentUpon>Asignar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="auditoria.resx">
+      <DependentUpon>auditoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calificacion.resx">
+      <DependentUpon>calificacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empresas.resx">
+      <DependentUpon>empresas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="encargados.resx">
+      <DependentUpon>encargados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="areas.resx">
+      <DependentUpon>areas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="herramientas.resx">
+      <DependentUpon>herramientas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="herramientas_asignadas.resx">
+      <DependentUpon>herramientas_asignadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI.resx">
+      <DependentUpon>MDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="normas.resx">
+      <DependentUpon>normas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="objetivos.resx">
+      <DependentUpon>objetivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registro.resx">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="responsables.resx">
+      <DependentUpon>responsables.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADST logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo - ADST.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empresa icono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empresa icono1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\normas icono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\auditoria icono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actividades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Encargado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\objetivos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\responsables.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\herramientas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\herramientas1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\herramientas2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo pequeño ADST.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Areas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Areas1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\herr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\herr1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaccion.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
